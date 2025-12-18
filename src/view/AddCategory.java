@@ -45,7 +45,6 @@ public class AddCategory extends JFrame{
 		field.setBounds(150, 180, 185, 28);
 		
 		button.setBounds(47, 270, 288, 35);
-		
 
 		//Ìí¼ÓÊÂ¼ş
 		addEvent();
